@@ -1,0 +1,7 @@
+C:\Users\Guilherme Ramos\Desktop\crud-client\crud-client\bin\Debug\crud-client.dll.config
+C:\Users\Guilherme Ramos\Desktop\crud-client\crud-client\bin\Debug\crud-client.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\crud-client\bin\Debug\crud-client.pdb
+C:\Users\Guilherme Ramos\Desktop\crud-client\crud-client\obj\Debug\AcessoBancoDados.csproj.AssemblyReference.cache
+C:\Users\Guilherme Ramos\Desktop\crud-client\crud-client\obj\Debug\AcessoBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Ramos\Desktop\crud-client\crud-client\obj\Debug\crud-client.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\crud-client\obj\Debug\crud-client.pdb

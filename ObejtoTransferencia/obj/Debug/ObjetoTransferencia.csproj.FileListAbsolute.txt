@@ -1,0 +1,10 @@
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\bin\Debug\ObejtoTransferencia.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\bin\Debug\ObejtoTransferencia.pdb
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\obj\Debug\ObejtoTransferencia.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\obj\Debug\ObejtoTransferencia.pdb
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\bin\Debug\crud-client.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\bin\Debug\crud-client.pdb
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\bin\Debug\crud-client.dll.config
+C:\Users\Guilherme Ramos\Desktop\crud-client\ObejtoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CopyComplete

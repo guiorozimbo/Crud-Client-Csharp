@@ -1,0 +1,12 @@
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\bin\Debug\Negocios.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\obj\Debug\Negocios.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\bin\Debug\crud-client.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\bin\Debug\ObejtoTransferencia.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\bin\Debug\crud-client.pdb
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\bin\Debug\crud-client.dll.config
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\bin\Debug\ObejtoTransferencia.pdb
+C:\Users\Guilherme Ramos\Desktop\crud-client\Negocios\obj\Debug\Negocios.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Guilherme Ramos\Desktop\crud-client\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Guilherme Ramos\Desktop\crud-client\Apresentacao\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+C:\Users\Guilherme Ramos\Desktop\crud-client\Apresentacao\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Ramos\Desktop\crud-client\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\Guilherme Ramos\Desktop\crud-client\Apresentacao\obj\Debug\Apresentacao.pdb
